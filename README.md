@@ -31,5 +31,16 @@
 - 【浙江大学】
     <!-- https://github.com/TonyCrane/PracticalSkillsTutorial/ -->
     <!-- https://github.com/inuebisu/SkillsTutorial -->
+- 耿楠【西北农林大学】
+- 蔡炎龙【台湾政治大学/台湾清华大学】
+    <!-- https://liam.page/2013/10/18/LaTeX-Tsinghua-TW/ -->
+    <!-- http://yenlung.km.nccu.edu.tw/home/index.php?f=contentShow&id=388 -->
 - 林莲枝（Lim Lian Tze）
     <!-- https://liantze.penguinattack.org/latextypesetting.html -->
+- Thierry Masson, *beamer cheat sheet* 
+    <!-- https://www.cpt.univ-mrs.fr/~masson/latex/Beamer-appearance-cheat-sheet.pdf -->
+    <!-- https://science.thilucmic.fr/index.php?c=la&p=beamersheet -->
+    <!-- https://github.com/sparkandshine/tools/tree/master/documents_output/beamer -->
+    <!-- https://github.com/Donders-Institute/Donders-LaTeX-Beamer -->
+- ……
+    <!-- https://users.wfu.edu/wickersg/latex/beamer/beamer.pdf -->
