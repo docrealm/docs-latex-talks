@@ -28,15 +28,26 @@
 - 邓化宇等【上海电力大学】
     <!-- https://github.com/SUEPaper/LaTeX-Talk -->
     <!-- https://github.com/latexstudio/latex-talk-3 -->
-- 【浙江大学】
-    <!-- https://github.com/TonyCrane/PracticalSkillsTutorial/ -->
-    <!-- https://github.com/inuebisu/SkillsTutorial -->
 - 耿楠【西北农林大学】
+    <!-- https://github.com/HuangCongQing/LaTeX/tree/master/LaTex课件(耿楠) -->
 - 蔡炎龙【台湾政治大学/台湾清华大学】
     <!-- https://liam.page/2013/10/18/LaTeX-Tsinghua-TW/ -->
     <!-- http://yenlung.km.nccu.edu.tw/home/index.php?f=contentShow&id=388 -->
+- 【浙江大学】
+    <!-- https://github.com/TonyCrane/PracticalSkillsTutorial/ -->
+    <!-- https://github.com/inuebisu/SkillsTutorial -->
+- 【西安交通大学】
+    <!-- https://gitee.com/qyxf/latex-resources -->
+    <!-- https://github.com/qyxf/lec-on-LaTeX -->
+- 嵇灵【电子科技大学】
+    <!-- https://bingtan.me/files/material/2019LaTeX_UESTC.pdf -->
 - 林莲枝（Lim Lian Tze）
     <!-- https://liantze.penguinattack.org/latextypesetting.html -->
+- John Lees-Miller
+    <!-- https://github.com/jdleesmiller/latex-course -->
+    <!-- https://egunawan.github.io/latex-course/ -->
+    <!-- https://github.com/tanjz12/latex-course/ -->
+    <!-- https://www.overleaf.com/static/latex/learn/free-online-introduction-to-latex-part-1.pdf -->
 - Thierry Masson, *beamer cheat sheet* 
     <!-- https://www.cpt.univ-mrs.fr/~masson/latex/Beamer-appearance-cheat-sheet.pdf -->
     <!-- https://science.thilucmic.fr/index.php?c=la&p=beamersheet -->
@@ -44,3 +55,12 @@
     <!-- https://github.com/Donders-Institute/Donders-LaTeX-Beamer -->
 - ……
     <!-- https://users.wfu.edu/wickersg/latex/beamer/beamer.pdf -->
+    <!-- https://www.dcs.gla.ac.uk/~hamer/intro-to-LaTeX.pdf -->
+    <!-- https://cse.unl.edu/~choueiry/S23-235H/files/IntroductionToLaTeX.pdf -->
+    <!-- https://www3.cs.stonybrook.edu/~pfodor/courses/CSE307/L01_Latex.pdf -->
+    <!-- https://sipb.mit.edu/iap/2010/latex/materials/presentation.pdf -->
+    <!-- https://www.dcs.gla.ac.uk/~hamer/intro-to-LaTeX.pdf -->
+    <!-- https://web.mit.edu/rsi/www/pdfs/new-latex.pdf -->
+    <!-- https://home.iitk.ac.in/~dasgupta/teaching/LSSC/TechInScholComm/A%20Brief%20Introduction%20to%20LaTeX-2017-8.pdf -->
+    <!-- https://hmwu.idv.tw/web/teaching/113-2/Consulting/hmwu_XeLaTeX-Basic.pdf -->
+    <!-- https://homepage.ntu.edu.tw/~ntut019/cwtex/cwTeX-Intro-Chang.pdf -->
