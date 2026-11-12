@@ -48,11 +48,6 @@
     <!-- https://egunawan.github.io/latex-course/ -->
     <!-- https://github.com/tanjz12/latex-course/ -->
     <!-- https://www.overleaf.com/static/latex/learn/free-online-introduction-to-latex-part-1.pdf -->
-- Thierry Masson, *beamer cheat sheet* 
-    <!-- https://www.cpt.univ-mrs.fr/~masson/latex/Beamer-appearance-cheat-sheet.pdf -->
-    <!-- https://science.thilucmic.fr/index.php?c=la&p=beamersheet -->
-    <!-- https://github.com/sparkandshine/tools/tree/master/documents_output/beamer -->
-    <!-- https://github.com/Donders-Institute/Donders-LaTeX-Beamer -->
 - ……
     <!-- https://users.wfu.edu/wickersg/latex/beamer/beamer.pdf -->
     <!-- https://www.dcs.gla.ac.uk/~hamer/intro-to-LaTeX.pdf -->
